@@ -25,7 +25,7 @@ function Home() {
             </h1>
 
             <p className="hero-description">
-              PashuCare brings farmers, crops, livestock,
+              Like Village Farming brings farmers, crops, livestock,
               farming products and village services
               together in one simple platform.
             </p>

@@ -23,7 +23,7 @@ function Navbar() {
       <div className="navbar-container">
 
         <NavLink to="/" className="logo">
-          🌾 PashuCare
+          🌾 Like Village Farming
         </NavLink>
 
         <nav className="nav-links">
