@@ -3,7 +3,6 @@ import { Link } from "react-router-dom";
 function FarmerCard({ farmer }) {
   return (
     <div className="content-card">
-
       <div className="card-icon">👨‍🌾</div>
 
       <h3>{farmer.name}</h3>
@@ -26,7 +25,6 @@ function FarmerCard({ farmer }) {
       >
         View Farmer
       </Link>
-
     </div>
   );
 }
